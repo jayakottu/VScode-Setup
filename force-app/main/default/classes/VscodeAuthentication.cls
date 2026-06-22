@@ -8,5 +8,6 @@
 public with sharing class VscodeAuthentication {
     public VscodeAuthentication() {
         system.debug(LoggingLevel.INFO, 'VscodeAuthentication constructor called');
+        //Adding another comment to push code to VS code
     }
 }
